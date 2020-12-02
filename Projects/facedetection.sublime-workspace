@@ -1,0 +1,934 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top\tproperty"
+			],
+			[
+				"dis",
+				"discover_weekly"
+			],
+			[
+				"tr",
+				"transition\tproperty"
+			],
+			[
+				"ma",
+				"margin-bottom\tproperty"
+			],
+			[
+				"d",
+				"discover-weekly"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"padd",
+				"padding-top\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"S",
+				"SearchIcon"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"mar",
+				"margin-bottom\tproperty"
+			],
+			[
+				"h",
+				"height\tproperty"
+			],
+			[
+				"Volume",
+				"VolumeDownIcon"
+			],
+			[
+				"P",
+				"PlaylistPlayIcon"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"R",
+				"RepeatIcon"
+			],
+			[
+				"Pl",
+				"PlayCircleOutlineIcon"
+			],
+			[
+				"Sk",
+				"SkipPrevious"
+			],
+			[
+				"Side",
+				"Sidebar"
+			],
+			[
+				"play",
+				"playlist"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"fon",
+				"font-size\tproperty"
+			],
+			[
+				"class",
+				"className"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"object",
+				"object-fit\tproperty"
+			],
+			[
+				"b",
+				"background-image\tproperty"
+			],
+			[
+				"r",
+				"rcc\tReact: component skeleton"
+			],
+			[
+				"use",
+				"useDataLayerValue"
+			],
+			[
+				"Data",
+				"DataLayerContext"
+			],
+			[
+				"re",
+				"reducer"
+			],
+			[
+				"in",
+				"initialState"
+			],
+			[
+				"rc",
+				"rcc\tReact: component skeleton"
+			],
+			[
+				"Da",
+				"DataLayerContext"
+			],
+			[
+				"s",
+				"setToken"
+			],
+			[
+				"get",
+				"getTokenFromUrl"
+			],
+			[
+				"rer",
+				"return"
+			],
+			[
+				"red",
+				"redirectUri"
+			],
+			[
+				"auth",
+				"authEndpoint"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"back",
+				"background-color\tproperty"
+			],
+			[
+				"text",
+				"text-decoration\tproperty"
+			],
+			[
+				"f",
+				"f\tAnonymous Function"
+			],
+			[
+				"m",
+				"min_so_far"
+			],
+			[
+				"min",
+				"min_so_far"
+			],
+			[
+				"pat",
+				"Path"
+			],
+			[
+				"BFS",
+				"BFSUtil"
+			],
+			[
+				"t",
+				"totalRev"
+			],
+			[
+				"v",
+				"visit"
+			],
+			[
+				"ptr",
+				"ptr2"
+			],
+			[
+				"t_",
+				"t_parent"
+			],
+			[
+				"s_",
+				"s_parent"
+			],
+			[
+				"pr",
+				"printPath"
+			],
+			[
+				"int",
+				"intersectNode"
+			],
+			[
+				"p",
+				"printpath"
+			],
+			[
+				"add",
+				"addVertex"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"co",
+				"count_color"
+			],
+			[
+				"q",
+				"que"
+			],
+			[
+				"pa",
+				"partition_point"
+			],
+			[
+				"me",
+				"mergeSort"
+			],
+			[
+				"se",
+				"second_half"
+			],
+			[
+				"fi",
+				"first_half"
+			],
+			[
+				"K",
+				"KthfromLast"
+			],
+			[
+				"o",
+				"oddEven"
+			],
+			[
+				"ad",
+				"addLast"
+			],
+			[
+				"rem",
+				"removeDuplicates"
+			],
+			[
+				"fo",
+				"fold"
+			],
+			[
+				"de",
+				"delete"
+			],
+			[
+				"mid",
+				"midNode"
+			],
+			[
+				"ge",
+				"getNodeAt"
+			],
+			[
+				"remove",
+				"removeFirst"
+			],
+			[
+				"ha",
+				"handlewhensize1"
+			],
+			[
+				"fle",
+				"flex-grow\tproperty"
+			],
+			[
+				"inf",
+				"infoBox__cases"
+			],
+			[
+				"bo",
+				"border-color\tproperty"
+			],
+			[
+				"countries",
+				"countries"
+			],
+			[
+				"l",
+				"log"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"c",
+				"countryCode"
+			],
+			[
+				"map",
+				"mapCenter"
+			],
+			[
+				"cae",
+				"casesTypeColors"
+			],
+			[
+				"casestype",
+				"casesTypeColors"
+			],
+			[
+				"country",
+				"countryInfo"
+			],
+			[
+				"setM",
+				"setMapCountries"
+			],
+			[
+				"set",
+				"setMapZoom"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"tooltip",
+				"tooltipItem"
+			],
+			[
+				"cases",
+				"casesType"
+			],
+			[
+				"ca",
+				"casesType"
+			],
+			[
+				"las",
+				"lastDataPoint"
+			],
+			[
+				"L",
+				"LineGraph"
+			],
+			[
+				"sort",
+				"sortData"
+			],
+			[
+				"sor",
+				"sortedData"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"cou",
+				"countryInfo"
+			],
+			[
+				"Countr",
+				"countryInfo"
+			],
+			[
+				"Cs",
+				"Cases"
+			],
+			[
+				"Card",
+				"CardContent"
+			],
+			[
+				"space",
+				"space-between\tjustify-content"
+			],
+			[
+				"Car",
+				"CardContent"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"a",
+				"app_header"
+			],
+			[
+				"push",
+				"push_back"
+			],
+			[
+				"path",
+				"pathCount"
+			],
+			[
+				"coun",
+				"countPathsUtil"
+			],
+			[
+				"ios",
+				"iostream\tstandard header"
+			],
+			[
+				"st",
+				"start_vtx"
+			],
+			[
+				"V",
+				"vDegree"
+			],
+			[
+				"DF",
+				"DFSUtil"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"pu",
+				"push_back"
+			],
+			[
+				"mes",
+				"meassage"
+			],
+			[
+				"Message",
+				"MessageList"
+			],
+			[
+				"component",
+				"componentValue"
+			],
+			[
+				"patient",
+				"patientId"
+			],
+			[
+				"A",
+				"AddPatient"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"Language",
+				"LanguageSerializers"
+			],
+			[
+				"ho",
+				"home_view"
+			],
+			[
+				"Reac",
+				"ReactDOM"
+			],
+			[
+				"borde",
+				"border-radius\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"margi",
+				"margin-right\tproperty"
+			],
+			[
+				"font-s",
+				"font-size\tproperty"
+			],
+			[
+				"i",
+				"inline-block\tdisplay"
+			],
+			[
+				"he",
+				"header\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Java/Ant.sublime-build",
+					""
+				],
+				[
+					"Packages/Java/JavaC.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Java/JavaC.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++11.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++11.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++11.sublime-build",
+				"Run"
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/C++17.sublime-build",
+					""
+				],
+				[
+					"Packages/User/C++17.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/User/C++17.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Bookmarks: Select Next"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"Snippet: html",
+				"Snippet: html"
+			],
+			[
+				"Snippet: l",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"Snippet: ",
+				"Snippet: SVG Icon YouTube"
+			],
+			[
+				"Icons",
+				"Snippet: SVG Icon Stack Overflow"
+			],
+			[
+				"Ma",
+				"Material Theme: Extras"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ES",
+				"Set Syntax: Git Commit"
+			],
+			[
+				"Install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"cd;",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": true,
+		"show_open_files": true,
+		"show_tabs": true,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/SongRow.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/SidebarOption.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/Sidebar.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/node_modules/react-dom/cjs/react-dom.development.js",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/App.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/Login.js",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/Login.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/spotify.js",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/DataLayer.js",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/index.js",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/Player.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/Body.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/Footer.css",
+		"/Users/rishabhtripathii/React/Spotify/spotify-clone/src/reducer.js",
+		"/Users/rishabhtripathii/Documents/java/avltree/AVLtree.java",
+		"/Users/rishabhtripathii/Documents/Coding/avl.cpp",
+		"/Users/rishabhtripathii/Documents/Python/whattsapp.py",
+		"/Users/rishabhtripathii/Documents/Coding/e.c++",
+		"/Users/rishabhtripathii/Documents/Coding/awskeys.pem",
+		"/Users/rishabhtripathii/Documents/Coding/#include<iostream>.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/largestrectangle.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/661.cpp",
+		"/Users/rishabhtripathii/Documents/Python/Django/NewAttempt/django_project_boilerplate-master/core/views.py",
+		"/Users/rishabhtripathii/Documents/Coding/binarytree.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/myself.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/236A.cpp",
+		"/Users/rishabhtripathii/Documents/Sumit Malik coding/june2019/july10/perm.java",
+		"/Users/rishabhtripathii/Documents/CodeForces/50A.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/test.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/code1.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/bfsforDisconnected.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/158A.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/1A.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/lcm.cpp",
+		"/Users/rishabhtripathii/Documents/CodeForces/lcm.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/minEdgereversal.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/longestpalindrome.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/remove.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/first.c++",
+		"/Users/rishabhtripathii/Documents/Coding/linkedlist.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/lis.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/bidirectionalsearch.cpp",
+		"/Users/rishabhtripathii/Documents/Python/file1.py",
+		"/Users/rishabhtripathii/Documents/Graph Practice/NdistanceNode.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/minEdgeBFS.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/printAllPath2.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/printallPath.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/Graph.js",
+		"/Users/rishabhtripathii/Documents/Graph Practice/petersengraph.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/bipartite2.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/DFSNary.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/bfsSTL.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/transpose.c++",
+		"/Users/rishabhtripathii/Documents/Coding/pathInARectangle.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/heightOfNary.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/heightofgenerictree.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/quicksort.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/mergesort.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/quicksort",
+		"/Users/rishabhtripathii/Documents/java/LinkedList/Linked_list.java",
+		"/Users/rishabhtripathii/React/covid/src/App.js",
+		"/Users/rishabhtripathii/React/covid/src/Table.js",
+		"/Users/rishabhtripathii/React/covid/src/util.js",
+		"/Users/rishabhtripathii/React/covid/src/Map.js",
+		"/Users/rishabhtripathii/React/covid/src/InfoBox.js",
+		"/Users/rishabhtripathii/React/covid/src/LineGraph.js",
+		"/Users/rishabhtripathii/React/covid/src/InfoBox.css",
+		"/Users/rishabhtripathii/React/covid/src/Map.css",
+		"/Users/rishabhtripathii/React/covid/src/Table.css",
+		"/Users/rishabhtripathii/React/covid/src/App.css",
+		"/Users/rishabhtripathii/React/covid/package.json",
+		"/Users/rishabhtripathii/React/covid/LineGraph.js",
+		"/Users/rishabhtripathii/React/covid/src/index.css",
+		"/Users/rishabhtripathii/React/covid/covid-tracker/src/App.js",
+		"/Users/rishabhtripathii/React/covid/covid-tracker/src/index.js",
+		"/Users/rishabhtripathii/Documents/Graph Practice/waterjug.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/numberoftreesinforest.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/Graph.java",
+		"/Users/rishabhtripathii/Documents/Graph Practice/graph.h",
+		"/Users/rishabhtripathii/Documents/Graph Practice/sieve.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/shortestpathtoreachoneprimetoother.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/header.h",
+		"/Users/rishabhtripathii/Documents/Graph Practice/KCoresOriginal.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/countpath1.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/countpath.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/numberofnodes.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/minimuminitialvertextotraversethewholematrix.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/kcores.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/transitiveclosure.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/bfs3.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/iterativedfs.cpp",
+		"/Users/rishabhtripathii/Library/Application Support/Sublime Text 3/Packages/User/C++17.sublime-build",
+		"/Users/rishabhtripathii/Library/Application Support/Sublime Text 3/Packages/User/C++11.sublime-build",
+		"/Users/rishabhtripathii/Library/Application Support/Sublime Text 3/Packages/User/sublime-buildc++14",
+		"/Users/rishabhtripathii/Library/Application Support/Sublime Text 3/Packages/User/Package Control.cache/C++14",
+		"/Users/rishabhtripathii/Documents/Graph Practice/findMother.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/bfs2.cpp",
+		"/Users/rishabhtripathii/Library/Application Support/Sublime Text 3/Packages/User/C++14",
+		"/Users/rishabhtripathii/Documents/Graph Practice/dfs.cpp",
+		"/Users/rishabhtripathii/Documents/Graph Practice/bfs.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/Arrays/Graph/graph.cpp",
+		"/Users/rishabhtripathii/Documents/java/june28/Huffman_code.java",
+		"/Users/rishabhtripathii/Documents/java/Tries/package-info.java",
+		"/Users/rishabhtripathii/Documents/java/Dp/Sliding_window.java",
+		"/Users/rishabhtripathii/Documents/Coding/Arrays/balance_parenthesis.cpp",
+		"/Users/rishabhtripathii/Documents/Coding/Arrays/Graph/Dynamic Programmig/minimumpathsum.cpp",
+		"/Users/rishabhtripathii/NodeAndExpress/fileupload.htm",
+		"/Users/rishabhtripathii/NodeAndExpress/server2.js",
+		"/Users/rishabhtripathii/NodeAndExpress/server.js",
+		"/Users/rishabhtripathii/NodeAndExpress/index.htm",
+		"/Users/rishabhtripathii/FireBaseProject/functions/index.js",
+		"/Users/rishabhtripathii/Angular/package-lock.json",
+		"/Users/rishabhtripathii/package-lock.json",
+		"/Users/rishabhtripathii/FireBaseProject/databse.json",
+		"/Users/rishabhtripathii/Documents/JavaScript/console.log(\"hello World\")",
+		"/Users/rishabhtripathii/Library/Application Support/Sublime Text 3/Packages/User/Node.sublime-build",
+		"/Users/rishabhtripathii/Documents/java/july2-1/package-info.java",
+		"/Users/rishabhtripathii/Documents/java/july2-1/GenericHeap.java",
+		"/Users/rishabhtripathii/Documents/java/july2-1/Heap.java",
+		"/Users/rishabhtripathii/Documents/java/manish/Armstg.java",
+		"/Users/rishabhtripathii/Downloads/00-Starting point/script.js",
+		"/Users/rishabhtripathii/Documents/java/Dp/Board_path_dp.java",
+		"/Users/rishabhtripathii/Documents/JavaScript/mypage_files/script.js",
+		"/Users/rishabhtripathii/React/chatbot/src/components/Message.js",
+		"/Users/rishabhtripathii/React/chatbot/src/components/NewRoomForm.js",
+		"/Users/rishabhtripathii/React/chatbot/src/components/RoomList.js",
+		"/Users/rishabhtripathii/React/chatbot/src/components/SendMessageForm.js",
+		"/Users/rishabhtripathii/React/chatbot/src/components/MessageList.js"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 256.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 175.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/User/C++17.sublime-build",
+	"project": "facedetection.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 196.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
